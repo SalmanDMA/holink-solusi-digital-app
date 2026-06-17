@@ -8,9 +8,7 @@ This project was developed as part of the Fullstack Developer Technical Assessme
 
 ## 📸 Preview
 
-![Project Preview](https://placehold.co/1200x600/ffffff/000000?text=Holink+Solusi+Digital+SEO+Directory)
-
-_Modern SaaS directory with SEO-optimized static pages._
+![Project Preview](https://raw.githubusercontent.com/SalmanDMA/holink-solusi-digital-app/refs/heads/main/public/image/preview.png)
 
 ---
 
