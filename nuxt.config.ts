@@ -16,7 +16,7 @@ export default defineNuxtConfig({
   ],
 
   site: {
-    url: 'https://holink-solusi-digital.vercel.app',
+    url: 'https://holink-solusi-digital-app.vercel.app',
   },
 
   sitemap: {

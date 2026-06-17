@@ -216,7 +216,7 @@ All tool detail pages are generated at build time.
 ## 🔗 Live Demo
 
 ```text
-https://holink-solusi-digital.vercel.app
+https://holink-solusi-digital-app.vercel.app
 ```
 
 ---
@@ -234,4 +234,5 @@ https://holink-solusi-digital.vercel.app
 ## 📄 License
 
 This project was developed solely for the PT Holink Solusi Digital technical assessment.
+
 # holink-solusi-digital-app

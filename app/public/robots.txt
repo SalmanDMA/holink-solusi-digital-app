@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://holink-solusi-digital.vercel.app/sitemap.xml
+Sitemap: https://holink-solusi-digital-app.vercel.app/sitemap.xml

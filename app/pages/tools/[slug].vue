@@ -12,7 +12,7 @@ if (!tool.value) {
 }
 
 const t = tool.value!;
-const canonicalUrl = computed(() => `https://holink-solusi-digital.vercel.app/tools/${tool.value?.slug}`);
+const canonicalUrl = computed(() => `https://holink-solusi-digital-app.vercel.app/tools/${tool.value?.slug}`);
 
 useSeoMeta({
 	title: `${t.name} — ${t.category} Tool | Holink`,
